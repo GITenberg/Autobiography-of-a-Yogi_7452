@@ -1,0 +1,34 @@
+_repo: Autobiography-of-a-Yogi_7452
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Yogananda, Paramahansa
+    birthdate: 1893
+    deathdate: 1952
+    gutenberg_agent_id: '2474'
+    url: http://www.gutenberg.org/2009/agents/2474
+    wikipedia: http://en.wikipedia.org/wiki/Paramahansa_Yogananda
+description: In 1946, Paramahansa Yogananda (January 5, 1893 - March 7, 1952), published
+  his life story, Autobiography of a Yogi, which introduced many westerners to meditation
+  and yoga. It has since been translated into twenty five languages. The book describes
+  Yogananda's search for a Guru, and his encounters with leading spiritual figures
+  such as Therese Neumann, the Hindu saint Sri Anandamoyi Ma, Mohandas Gandhi, Rabindranath
+  Tagore, Nobel Prize winning physicist Sir C.V. Raman, and noted American plant scientist
+  Luther Burbank, to whom it is dedicated. Amelita Galli-Curci, one of the most famous
+  oper.
+gutenberg_bookshelf: Hinduism
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7452'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BP'
+- !lcsh 'Yogis -- India -- Biography'
+- !lcsh 'Yogananda, Paramahansa, 1893-1952'
+- GITenberg
+title: Autobiography of a Yogi
+url: http://www.gutenberg.org/ebooks/7452
