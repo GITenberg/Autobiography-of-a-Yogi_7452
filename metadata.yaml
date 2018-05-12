@@ -1,5 +1,8 @@
 _repo: Autobiography-of-a-Yogi_7452
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Yogananda, Paramahansa
@@ -16,6 +19,8 @@ description: In 1946, Paramahansa Yogananda (January 5, 1893 - March 7, 1952), p
   Tagore, Nobel Prize winning physicist Sir C.V. Raman, and noted American plant scientist
   Luther Burbank, to whom it is dedicated. Amelita Galli-Curci, one of the most famous
   oper.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7452#Autobiography-of-a-Yogi
 gutenberg_bookshelf: Hinduism
 gutenberg_issued: '2005-02-01'
 gutenberg_type: Text
